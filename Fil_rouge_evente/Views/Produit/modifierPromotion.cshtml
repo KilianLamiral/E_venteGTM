@@ -1,0 +1,20 @@
+﻿@model Fil_rouge_evente.Metier.Promotion
+@{
+    ViewBag.Title = "modifierPromotion";
+}
+
+<h2>modifierPromotion</h2>
+
+
+@using (Html.BeginForm("modifierPromotion", "Produit", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.PromotionId)
+    <span>@Html.DisplayNameFor(model => model.NomPromotion) </span>
+    <span>@Html.TextBoxFor(model => model.NomPromotion)  </span><br />
+    <span>@Html.DisplayNameFor(model => model.Remise) </span>
+    <span>@Html.TextBoxFor(model => model.Remise)  </span><br />
+    <button type="submit">Modifier</button>
+
+
+}
+

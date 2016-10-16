@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "LoggedIn";
+}
+
+@section ExternalCSS{
+    <style>
+        #moncompte > #nav > ul {
+            display: inline-block;
+            border-radius: 0.35em;
+            box-shadow: inset 0px 0px 1px 1px #3d4249;
+            padding: 0 1.5em 0 1.5em;
+        }
+
+        #moncompte > #nav > ul > li > a, #nav > ul > li > span {
+			display: block;
+			color: #eee;
+			color: #3d4249;
+			text-transform: uppercase;
+			text-decoration: none;
+			font-size: 0.7em;
+			letter-spacing: 0.25em;
+			height: 5em;
+			line-height: 5em;
+			-moz-transition: all .25s ease-in-out;
+			-webkit-transition: all .25s ease-in-out;
+			-o-transition: all .25s ease-in-out;
+			-ms-transition: all .25s ease-in-out;
+			transition: all .25s ease-in-out;
+			outline: 0;
+		}
+
+        #moncompte > #nav > ul > li:hover > a {
+			color: #e97770;
+		}
+
+		#moncompte > #nav > ul > li.active > a, #nav > ul > li.active > span {
+			color: #e97770;
+		}
+    </style>
+    }
+<div id="moncompte">
+    <nav id="nav">
+        <ul id="moncompte">
+            <li>
+                <a href="#">ITECH</a>
+                <ul>
+                    <li><a href="#">INFORMATIQUE</a></li>
+                    <li><a href="#">TELEPHONIE</a></li>
+                    <li><a href="#">TABLETTE</a></li>
+                    <li><a href="#">OBJECT CONNECTE</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">ELECTROMENAGER</a>
+                <ul>
+                    <li><a href=#>LAVAGE</a></li>
+                    <li><a href=#>FROID</a></li>
+                    <li><a href=#>CUISSON</a></li>
+                </ul>
+            </li>
+            <li><a href="@Url.Action("ModifierCompte", "Client")">Modifier mon Compte</a></li>
+            <li><a href="@Url.Action("logout", "Client")">Se déconnecter</a></li>
+        </ul>
+    </nav>
+</div>
+<br/>
+<h4>Bonjour @Session["Prenom"].ToString() @Session["Nom"].ToString()</h4>
+
+
+<h4>Moyen de paiement</h4>
+@Html.ActionLink("Choix du moyen de paiement", "AjouterMoyenPaiement", "MoyenPaiement")
+
+
+
+<h4>@Html.ActionLink("Boutique", "Accueil","Client")<br /></h4>
+
+
+
+

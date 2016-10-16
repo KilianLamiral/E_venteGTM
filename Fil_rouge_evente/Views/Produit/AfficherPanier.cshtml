@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.ProduitCommande>
+@{
+    ViewBag.Title = "AfficherPanier";
+}
+
+<h2>AfficherPanier</h2>
+
+<div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.ProduitId)</th>
+                <th>@Html.DisplayNameFor(model => model.quantite)</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var m in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => m.ProduitId)</td>
+                    <td>@Html.DisplayFor(modelItem => m.quantite)</td>
+
+                    <td>@Html.ActionLink("Supprimer", "SupprimerAdresse", new { id = m.ProduitId })</td>
+                    <td>@Html.ActionLink("Modifier", "modifierAdresse", new { id = m.ProduitId })</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

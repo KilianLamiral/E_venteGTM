@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.CarteBancaire>
+@{
+    ViewBag.Title = "ListerCartesBancaires";
+}
+
+<h2>Cartes bancaires enregistrées</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.NomProprietaire)</th>
+            <th>@Html.DisplayNameFor(model => model.NumeroCarte)</th>
+            <th>@Html.Label("Date d'expiration")</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.NomProprietaire)</td>
+                <td>@Html.DisplayFor(modelItem => m.NumeroCarte)</td>
+                <td>@Html.DisplayFor(modelItem => m.Mois) / @Html.DisplayFor(modelItem => m.Annee)</td>
+                <td>@Html.ActionLink("Supprimer", "SupprimerPaiement", new { id = m.MoyenPaiementId })</td>
+            </tr>
+        }
+    </tbody>
+</table>

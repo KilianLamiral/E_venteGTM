@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.ProduitCommande>
+@{
+    ViewBag.Title = "AfficherLigneDeCommande";
+}
+
+<h2>Afficher Panier: </h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.ProduitId)</th>
+            <th>@Html.DisplayNameFor(model => model.PanierId)</th>
+            <th>@Html.DisplayNameFor(model => model.produit)</th>
+            <th>@Html.DisplayNameFor(model => model.panier)</th>
+            <th>@Html.DisplayNameFor(model => model.quantite)</th>
+        </tr>
+    </thead>
+    <tbody>
+     @foreach (var m in Model)
+     {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.ProduitId)</td>
+                <td>@Html.DisplayFor(modelItem => m.PanierId)</td>
+                <td>@Html.DisplayFor(modelItem => m.produit)</td>
+                <td>@Html.DisplayFor(modelItem => m.panier)</td>
+                <td>@Html.DisplayFor(modelItem => m.quantite)</td>
+                <td>@Html.ActionLink("Modifier", "modifierLigneDeCommande")</td>
+                <td>@Html.ActionLink("Supprimer", "supprimerLigneDeCommande")</td>
+            </tr>
+        }
+    </tbody>
+</table>

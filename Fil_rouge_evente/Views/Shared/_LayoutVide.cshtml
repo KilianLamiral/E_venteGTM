@@ -1,0 +1,27 @@
+﻿
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>FRENCH TECH</title>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/x-icon" href="~/Images/logo_mini.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="~/Scripts/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="~/Content/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="~/Content/ie8.css" /><![endif]-->
+    @RenderSection("ExternalCSS", false)
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div id= "logo">
+    <img src="~/Content/IMG/SiteGTM.PNG" alt="=French Tech" width="100%"/>
+    </div>
+
+       
+            <div id="main" class="container">
+                @RenderBody()
+                </div>
+            </div>
+           </body>
+</html>

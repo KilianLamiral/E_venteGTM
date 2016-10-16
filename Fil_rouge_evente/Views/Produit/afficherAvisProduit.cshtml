@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Fil_rouge_evente.Models.ProduitClientAvisModel>
+@{
+    ViewBag.Title = "afficherAvisProduit";
+}
+
+<h2>Avis du client</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>@Html.Label("Client")</th>
+            <th>@Html.DisplayNameFor(model => model.Note)</th>
+            <th>@Html.DisplayNameFor(model => model.Commentaire)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var m in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.Prenom) @Html.DisplayFor(modelItem => m.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => m.Note)</td>
+                <td>@Html.DisplayFor(modelItem => m.Commentaire)</td>
+            </tr>
+        }
+    </tbody>
+</table>

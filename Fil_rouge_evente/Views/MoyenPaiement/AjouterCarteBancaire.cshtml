@@ -1,0 +1,18 @@
+﻿@model Fil_rouge_evente.Metier.CarteBancaire
+@{
+    ViewBag.Title = "AjouterCarteBancaire";
+}
+
+<h2>AjouterCarteBancaire</h2>
+
+<div>
+    @using (Html.BeginForm("AjouterCarteBancaire", "MoyenPaiement"))
+    {
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <span>@Html.DisplayNameFor(model => model.NomProprietaire) : </span><span>@Html.TextBoxFor(model => model.NomProprietaire)</span><span>@Html.ValidationMessageFor(model => model.NomProprietaire)</span><br />
+        <span>@Html.DisplayNameFor(model => model.NumeroCarte) : </span><span>@Html.TextBoxFor(model => model.NumeroCarte, new { @type = "number" })</span><span>@Html.ValidationMessageFor(model => model.NumeroCarte)</span><br />
+        <span>@Html.Label("Date d'expiration (mois / année)") : </span><span>@Html.TextBoxFor(model => model.Mois, new { @type = "number", max=12}) / @Html.TextBoxFor(model => model.Annee, new { @type = "number",max=99, min=16})</span><br />
+        <button type="submit">Valider</button>
+        
+    }
+    </div>

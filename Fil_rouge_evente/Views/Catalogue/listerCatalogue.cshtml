@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.Catalogue>
+@{
+    ViewBag.Title = "ListerCatalogue";
+}
+
+<h2>Liste des produits</h2>
+@Html.ActionLink("Ajouter", "ajouterCatalogue")<br />
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.NomCatalogue)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.NomCatalogue)</td>
+                <td>@Html.ActionLink("Modifier", "ModifierCatalogue", new { id = m.CatalogueId })</td>
+                <td>@Html.ActionLink("Supprimer", "SupprimerCatalogue", new { id = m.CatalogueId })</td>
+            </tr>
+        }
+    </tbody>
+</table>

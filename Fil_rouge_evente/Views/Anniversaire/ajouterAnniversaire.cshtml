@@ -1,0 +1,15 @@
+﻿@model Fil_rouge_evente.Metier.Anniversaire
+@{
+    ViewBag.Title = "ajouterAnniversaire";
+}
+
+<h2>ajouterAnniversaire</h2>
+
+<div>
+    @using (Html.BeginForm("ajouterAnniversaire", "Anniversaire", FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.montant) : </span><span>@Html.TextBoxFor(model => model.montant)</span><br />
+        <button type="submit">Ajouter</button>
+    }
+</div>
+

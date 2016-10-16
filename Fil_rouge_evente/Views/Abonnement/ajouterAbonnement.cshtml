@@ -1,0 +1,16 @@
+﻿@model Fil_rouge_evente.Metier.Abonnement
+@{
+    ViewBag.Title = "ajouterAbonnement";
+}
+
+<h2>ajouterAbonnement</h2>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("ajouterAbonnement", "Abonnement", FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.Nom) : </span><span>@Html.TextBoxFor(model => model.Nom)</span><span>@Html.ValidationMessageFor(model => model.Nom)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Prix) : </span><span>@Html.TextBoxFor(model => model.Prix)</span><span>@Html.ValidationMessageFor(model => model.Prix)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Duree) : </span><span>@Html.EnumDropDownListFor(model => model.Duree) mois</span><span>@Html.ValidationMessageFor(model => model.Duree)</span><br />
+        <button type="submit">Ajouter</button>
+    }
+</div>

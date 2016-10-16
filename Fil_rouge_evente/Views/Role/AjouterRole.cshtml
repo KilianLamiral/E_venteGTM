@@ -1,0 +1,15 @@
+﻿@model Fil_rouge_evente.Metier.Role
+@{
+    ViewBag.Title = "AjouterRole";
+}
+
+<h2>AjouterRole</h2>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("AjouterRole", "Role", FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.Droit) : </span><span>@Html.TextBoxFor(model => model.Droit)</span>
+        <button type="submit">Ajouter</button>
+    }
+</div>
+

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Fil_rouge_evente.Models.ProduitModel>
+@{
+    ViewBag.Title = "afficherProduitModel";
+}
+
+<h2>Listes des produits</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.ProduitId)</th>
+            <th>@Html.DisplayNameFor(model => model.Nom)</th>
+            <th>@Html.DisplayNameFor(model => model.Prix)</th>
+            <th>@Html.DisplayNameFor(model => model.NomCatalogue)</th>
+            <th>@Html.DisplayNameFor(model => model.NomCategorie)</th>
+            <th>@Html.DisplayNameFor(model => model.Stock)</th>
+            <th><button>@Html.ActionLink("Ajouter", "AjouterProduit")</button></th>
+            <th><button>@Html.ActionLink("ListerParNom", "findProductByName")</button></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => p.ProduitId)</td>
+                <td>@Html.DisplayFor(modelItem => p.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => p.Prix)</td>
+                <td>@Html.DisplayFor(modelItem => p.NomCatalogue)</td>
+                <td>@Html.DisplayFor(modelItem => p.NomCategorie)</td>
+                <td>@Html.DisplayFor(modelItem => p.Stock)</td>
+                <td><button>@Html.ActionLink("Modifier", "ModifierProduit", new { id = p.ProduitId })</button></td>
+                <td><button>@Html.ActionLink("Supprimer", "SupprimerProduit", new { id = p.ProduitId })</button></td>
+
+            </tr>
+        }
+
+    </tbody>
+</table>

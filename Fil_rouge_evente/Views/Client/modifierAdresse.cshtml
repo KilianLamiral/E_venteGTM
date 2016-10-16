@@ -1,0 +1,20 @@
+﻿@model Fil_rouge_evente.Metier.Adresse
+@{
+    ViewBag.Title = "modifierAdresse";
+}
+
+<h2>modifierAdresse</h2>
+
+<div>
+    @using (Html.BeginForm("modifierAdresse","Client",FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.AdresseId);
+        <span>@Html.DisplayNameFor(model => model.NumeroRue) : </span><span>@Html.TextBoxFor(model => model.NumeroRue)</span><span>@Html.ValidationMessageFor(model => model.NumeroRue)</span><br />
+        <span>@Html.DisplayNameFor(model => model.NomRue) : </span><span>@Html.TextBoxFor(model => model.NomRue)</span><span>@Html.ValidationMessageFor(model => model.NomRue)</span><br />
+        <span>@Html.DisplayNameFor(model => model.CodePostal) : </span><span>@Html.TextBoxFor(model => model.CodePostal)</span><span>@Html.ValidationMessageFor(model => model.CodePostal)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Ville) : </span><span>@Html.TextBoxFor(model => model.Ville)</span><span>@Html.ValidationMessageFor(model => model.Ville)</span><br />
+        <button type="submit">Valider</button>
+    }
+    
+</div>
+

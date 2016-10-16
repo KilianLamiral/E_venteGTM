@@ -1,0 +1,95 @@
+﻿@model Fil_rouge_evente.Models.ClientModel
+@{
+    ViewBag.Title = "Inscription";
+}
+
+<div>
+@using (Html.BeginForm("Inscription", "Client", FormMethod.Post))
+{
+    <span>@Html.DisplayNameFor(model => model.civilite) <span class="text-danger">*</span> :</span>
+    <br />
+    <span>@Html.RadioButtonFor(model => model.civilite, "2") M.</span>
+    <span>@Html.RadioButtonFor(model => model.civilite, "1") Mme.</span>
+    <span>@Html.RadioButtonFor(model => model.civilite, "0") Mlle.</span>
+    <br /><br />
+
+    <span>@Html.DisplayNameFor(model => model.Nom) <span class="text-danger">*</span> :</span>
+    <span>
+        @Html.TextBoxFor(model => model.Nom, new { placeholder = "Entrez votre nom"})
+        @Html.ValidationMessageFor(model => model.Nom, null, new { @class = "text-danger" })
+    </span>
+    <br />
+
+    <span>@Html.DisplayNameFor(model => model.Prenom) <span class="text-danger">*</span> :</span>
+    <span>
+        @Html.TextBoxFor(model => model.Prenom, new { placeholder = "Entrez votre prénom" })
+        @Html.ValidationMessageFor(model => model.Prenom, null, new { @class = "text-danger" })
+    </span>
+    <br />
+
+    <span>@Html.DisplayNameFor(model => model.DateNaissance) <span class="text-danger">*</span> :</span>
+    <span>
+        @Html.TextBoxFor(model => model.DateNaissance, new { @class = "form-control datecontrol", type = "date" })
+        @Html.ValidationMessageFor(model => model.DateNaissance, null, new { @class = "text-danger" })
+    </span>
+    <br />
+
+    <span>@Html.DisplayNameFor(model => model.Email) <span class="text-danger">*</span> :</span>
+    <span>
+        @Html.TextBoxFor(model => model.Email, new { placeholder = "adresse@domaine.fr" })
+        @Html.ValidationMessageFor(model => model.Email, null, new { @class = "text-danger" })
+    </span>
+    <br />
+
+    <span>@Html.DisplayNameFor(model => model.password) <span class="text-danger">*</span> :</span>
+    <span>
+        @Html.PasswordFor(model => model.password, new { placeholder = "6 à 50 caractères" })
+        @Html.ValidationMessageFor(model => model.password, null, new { @class = "text-danger" })
+    </span>
+    <br />
+
+    <span>@Html.DisplayNameFor(model => model.confirmPassword) <span class="text-danger">*</span> :</span>
+    <span>
+        @Html.PasswordFor(model => model.confirmPassword, new { placeholder = "6 à 50 caractères" })
+        @Html.ValidationMessageFor(model => model.confirmPassword, null, new { @class = "text-danger" })
+    </span>
+    <br />
+
+    <span>@Html.DisplayNameFor(model => model.typeadresse) <span class="text-danger">*</span> : </span>
+    <span>@Html.EnumDropDownListFor(model => model.typeadresse)</span>
+    <br />
+    <span>Adresse <span class="text-danger">*</span> : </span>
+    <div class="row">
+        <span class="col-sm-2 col-lg-2">
+            @Html.TextBoxFor(model => model.NumeroRue, new { placeholder = "n° de rue" })
+            @Html.ValidationMessageFor(model => model.NumeroRue, null, new { @class = "text-danger" })
+        </span>
+
+        <span class="col-sm-4 col-lg-3">
+            @Html.TextBoxFor(model => model.NomDeRue, new { placeholder = "(rue, av...) nom de la rue" })
+            @Html.ValidationMessageFor(model => model.NomDeRue, null, new { @class = "text-danger" })
+        </span>
+        <span class="col-sm-4 col-lg-3">
+            @Html.TextBoxFor(model => model.CodePostal, new { placeholder = "Code postal" })
+            @Html.ValidationMessageFor(model => model.CodePostal, null, new { @class = "text-danger" })
+        </span>
+         <br />
+    </div>
+    <div class="row">      
+        <span class="col-sm-3 col-lg-3">
+            @Html.TextBoxFor(model => model.Ville, new { placeholder = "Ville" })
+            @Html.ValidationMessageFor(model => model.Ville, null, new { @class = "text-danger" })
+        </span>
+        <span class="col-sm-3 col-lg-3">
+            @Html.TextBoxFor(model => model.Pays, new { placeholder = "Pays" })
+            @Html.ValidationMessageFor(model => model.Pays, null, new { @class = "text-danger" })
+        </span>
+    </div>
+    <br />
+
+    <button type="submit" style="color:white">S'INCRIRE</button><br /><br />
+
+}
+    <span>Déjà membre ?</span><br />
+    <button>@Html.ActionLink("Identifiez-vous !", "Connexion")</button>
+</div>

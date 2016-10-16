@@ -1,0 +1,35 @@
+﻿@model Fil_rouge_evente.Metier.Client
+@{
+    ViewBag.Title = "ModifierCompte";
+}
+
+<div>
+    @using (Html.BeginForm("ModifierCompte", "Client", FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.RoleId)
+        @Html.HiddenFor(model => model.UtilisateurId)
+        @Html.HiddenFor(model => model.Actif)
+        @Html.HiddenFor(model => model.NombrePoints)
+        @Html.HiddenFor(model => model.CompteASupprimer)
+        @Html.HiddenFor(model => model.password)
+        @Html.HiddenFor(model => model.NumeroCarteFidelite)
+        @Html.HiddenFor(model => model.confirmPassword)
+   
+        <span>@Html.DisplayNameFor(model => model.civilite) : </span><span>@Html.EnumDropDownListFor(model => model.civilite)</span><span>@Html.ValidationMessageFor(model => model.civilite)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Nom) : </span><span>@Html.TextBoxFor(model => model.Nom)</span><span>@Html.ValidationMessageFor(model => model.Nom)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Prenom) : </span><span>@Html.TextBoxFor(model => model.Prenom)</span><span>@Html.ValidationMessageFor(model => model.Prenom)</span><br />
+        <span>@Html.DisplayNameFor(model => model.DateNaissance) : </span><span>@Html.TextBoxFor(model => model.DateNaissance)</span><span>@Html.ValidationMessageFor(model => model.DateNaissance)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Email) : </span><span>@Html.TextBoxFor(model => model.Email)</span><span>@Html.ValidationMessageFor(model => model.Email)</span><br />
+            <button type="submit" style="color:white">Mettre à jour</button>
+        <br/><br/>
+
+        <h4>Mes Adresses</h4>
+        <button>@Html.ActionLink("Afficher mes adresses", "AfficherAdresses")</button><br /><br />
+        <button>@Html.ActionLink("Ajouter une adresse", "AjouterAdresse")</button><br /><br />
+
+        <h4>Moyen de paiement</h4>
+        <button>@Html.ActionLink("Choix du moyen de paiement", "AjouterMoyenPaiement", "MoyenPaiement")</button><br /><br />
+
+        <button><span>@Html.ActionLink("Supprimer mon Compte", "desactiverMonCompte", new { id = Model.UtilisateurId })</span></button>
+    }
+</div>

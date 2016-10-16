@@ -1,0 +1,21 @@
+﻿@model Fil_rouge_evente.Metier.Administrateur
+@{
+    ViewBag.Title = "ajouterAdministrateur";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Ajouter un administrateur</h2>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("ajouterAdministrateur","Administrateur",FormMethod.Post))
+    {
+
+        <span>@Html.DisplayNameFor(model => model.Nom) : </span><span>@Html.TextBoxFor(model => model.Nom)</span><span>@Html.ValidationMessageFor(model => model.Nom)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Prenom) : </span><span>@Html.TextBoxFor(model => model.Prenom)</span><span>@Html.ValidationMessageFor(model => model.Prenom)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Email) : </span><span>@Html.TextBoxFor(model => model.Email)</span><span>@Html.ValidationMessageFor(model => model.Email)</span><br />
+        <span>@Html.DisplayNameFor(model => model.password) : </span><span>@Html.PasswordFor(model => model.password)</span><span>@Html.ValidationMessageFor(model => model.password)</span><br />
+        <span>@Html.DisplayNameFor(model => model.confirmPassword) : </span><span>@Html.PasswordFor(model => model.confirmPassword)</span><span>@Html.ValidationMessageFor(model => model.confirmPassword)</span><br />
+        <button type="submit">Ajouter</button>
+
+    }
+</div>

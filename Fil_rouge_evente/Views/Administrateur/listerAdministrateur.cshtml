@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.Utilisateur>
+@{
+    ViewBag.Title = "listerAdministrateur";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>listerAdministrateur</h2>
+
+<div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Nom)</th>
+                <th>@Html.DisplayNameFor(model => model.Prenom)</th>
+                <th>@Html.DisplayNameFor(model => model.Email)</th>
+                <th>@Html.DisplayNameFor(model => model.RoleId)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var m in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => m.Nom)</td>
+                    <td>@Html.DisplayFor(modelItem => m.Prenom)</td>
+                    <td>@Html.DisplayFor(modelItem => m.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => m.RoleId)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

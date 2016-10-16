@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.Abonnement>
+@{
+    ViewBag.Title = "listerTousAbonnement";
+}
+
+<h2>listerTousAbonnement</h2>
+<span>@Html.ActionLink("Ajouter un abonnement","ajouterAbonnement")</span>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nom)</th>
+            <th>@Html.DisplayNameFor(model => model.Prix)</th>
+            <th>@Html.DisplayNameFor(model => model.Duree)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var m in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => m.Prix)</td>
+                <td>@Html.DisplayFor(modelItem => m.Duree)</td>
+                <td>@Html.ActionLink("Supprimer","supprimerAbonnement",new { id = m.AbonnementId })</td>
+                <td>@Html.ActionLink("Modifier","modifierAbonnement", new { id = m.AbonnementId })</td>
+            </tr>
+        }
+    </tbody>
+</table>

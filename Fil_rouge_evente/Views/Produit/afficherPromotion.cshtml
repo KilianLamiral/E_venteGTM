@@ -1,0 +1,36 @@
+﻿@model  IEnumerable<Fil_rouge_evente.Metier.Promotion>
+@{
+    ViewBag.Title = "afficherPromotion";
+}
+
+<h2>Listes des Promotions</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.PromotionId)</th>
+            <th>@Html.DisplayNameFor(model => model.NomPromotion)</th>
+            <th>@Html.DisplayNameFor(model => model.Remise)</th>
+            <th>@Html.DisplayNameFor(model => model.ProduitId)</th>
+            <th><button>@Html.ActionLink("Ajouter", "ajouterPromotion")</button></th>
+            <th><button>@Html.ActionLink("rechercher par nom", "findPromotionByName")</button></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => p.PromotionId)</td>
+                <td>@Html.DisplayFor(modelItem => p.NomPromotion)</td>
+                <td>@Html.DisplayFor(modelItem => p.Remise)</td>
+                <td>@Html.DisplayFor(modelItem => p.ProduitId)</td>
+                <td><button>@Html.ActionLink("Modifier", "modifierPromotion", new { id = p.PromotionId })</button></td>
+                <td><button>@Html.ActionLink("Supprimer", "supprimerPromotion", new { id = p.PromotionId })</button></td>
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+

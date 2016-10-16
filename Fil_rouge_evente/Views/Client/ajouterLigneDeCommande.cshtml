@@ -1,0 +1,17 @@
+﻿@model Fil_rouge_evente.Metier.ProduitCommande
+@{
+    ViewBag.Title = "ajouterLigneDeCommande";
+}
+
+<h2>ajouterLigneDeCommande</h2>
+
+<div>
+    @using (Html.BeginForm("ajouterLigneDeCommande", "Client", FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.ProduitId) : </span><span>@Html.DropDownList("ProduitId")</span><br />
+        <span>@Html.DisplayNameFor(model => model.PanierId) : </span><span>@Html.DropDownList("PanierId")</span><br />
+        <span>@Html.DisplayNameFor(model => model.quantite) : </span><span>@Html.TextBoxFor(modelItem => modelItem.quantite,new { @Type = "number" ,max=99,min=0})</span><br />
+
+        <button type="submit">Ajouter</button>
+    }
+</div>

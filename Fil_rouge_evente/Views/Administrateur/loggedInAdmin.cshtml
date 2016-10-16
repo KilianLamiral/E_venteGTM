@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "loggedInAdmin";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@if (Session["UtilisateurId"] != null)
+{
+    @Html.ActionLink("Se déconnecter", "logout")<br />
+    <h4>Catalogue</h4>
+    @Html.ActionLink("Ajouter un catalogue","ajouterCatalogue","Catalogue")<br />
+    @Html.ActionLink("Lister les catalogues", "listerCatalogue", "Catalogue")<br />
+
+    <h4>Produits</h4>
+    @Html.ActionLink("Ajouter un produit","AjouterProduit","Produit")<br />
+    @Html.ActionLink("Lister les produits","ListerProduitsAdmin","Produit")<br />
+    <h4>Promotions</h4>
+    @Html.ActionLink("ajouterPromotion", "ajouterPromotion","Produit")<br />
+    @Html.ActionLink("Liste des promotions", "afficherPromotionProduit","Produit")<br />
+    <h4>Rôles</h4>
+    @Html.ActionLink("Lister les rôles","ListerRoles","Role")<br />
+    <h4>Abonnements</h4>
+    @Html.ActionLink("Ajouter un abonnement","ajouterAbonnement","Abonnement")<br />
+    @Html.ActionLink("Lister les abonnements","listerTousAbonnement","Abonnement")<br />
+    <h4>Cadeaux d'anniversaire</h4>
+    @Html.ActionLink("Ajouter un anniversaire","ajouterAnniversaire","Anniversaire")<br />
+    @Html.ActionLink("Lister les anniversaires","listerAnniversaires","Anniversaire")<br />
+
+    <h4>Lister les clients</h4>
+    @Html.ActionLink("Lister les clients", "listerClient", "Administrateur")<br />
+   }

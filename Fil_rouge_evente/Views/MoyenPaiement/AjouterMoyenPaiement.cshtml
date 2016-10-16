@@ -1,0 +1,14 @@
+﻿@model Fil_rouge_evente.Metier.MoyenPaiement
+@{
+    ViewBag.Title = "AjouterMoyenPaiement";
+}
+
+<h2>AjouterMoyenPaiement</h2>
+
+<div>
+    @using (Html.BeginForm("AjouterMoyenPaiement", "MoyenPaiement",FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.TypePaiement)</span><span>@Html.EnumDropDownListFor(model => model.TypePaiement) </span>
+        <button type="submit">Valider</button>
+    }
+</div>

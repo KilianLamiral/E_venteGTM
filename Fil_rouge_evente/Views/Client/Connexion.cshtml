@@ -1,0 +1,19 @@
+﻿@model Fil_rouge_evente.Metier.Utilisateur
+@{
+    ViewBag.Title = "Connexion";
+}
+
+<h2>Connectez-vous pour accéder à votre compte.</h2>
+
+@using (Html.BeginForm("Connexion", "Client", FormMethod.Post))
+{
+    <div class="form-group" id="connexion">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <span>@Html.DisplayNameFor(model => model.Email) :</span><span>@Html.TextBoxFor(model => model.Email)</span><br />
+        <span>@Html.DisplayNameFor(model => model.password) :</span><span>@Html.PasswordFor(model => model.password)</span><br />
+        @Html.ValidationSummary(true, "Pas si vite ;) Votre mot de passe ou votre email semble erroné.", new { @class = "text-danger" })
+    </div>
+    <button type="submit" style="color:white">Valider</button><br/><br />
+    <span>Pas encore membre ?</span><br />
+    <button>@Html.ActionLink("Inscrivez-vous maintenant !", "Inscription")</button>
+}

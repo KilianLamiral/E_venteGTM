@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "AjouterVirement";
+}
+
+<h2>Instruction pour le paiement par virement</h2>
+
+<div>
+    @using (Html.BeginForm("AjouterVirement", "MoyenPaiement", FormMethod.Post))
+    {
+    <p>Si vous avez choisi le mode de paiement par virement, veuillez transmettre les informations suivantes à votre banque :<br />
+    Virements depuis la France :
+    <ul>
+        <li>Nom de la banque : </li>
+        <li>Code Banque : </li>
+        <li>Code Guichet : </li>
+        <li>Numéro de Compte : </li>
+        <li>Clé RIB : </li>
+    </ul>
+    Virements depuis l'étranger :
+    <ul>
+        <li>Bom de la banque : </li>
+        <li>IBAN (International Bank Account number) : </li>
+        <li>BIC (Bank Identification Code) : </li>
+    </ul>
+    </p>
+    <button type="submit">Valider</button>
+    }
+</div>

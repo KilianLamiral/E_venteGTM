@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.Client>
+@{
+    ViewBag.Title = "listerClient";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>@ViewBag.Message</h3>
+
+<div>
+    @using (Html.BeginForm("listerClient", "Administrateur", FormMethod.Post))
+    {
+        <fieldset>
+            <legend>Rechercher un client</legend>
+            <span>@Html.DisplayNameFor(model => model.Nom) :</span>
+            <span>@Html.TextBox("nom")</span>
+            <br />
+            <button type="submit">Rechercher</button>
+        </fieldset>
+    }
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nom)</th>
+            <th>@Html.DisplayNameFor(model => model.Prenom)</th>
+            <th>@Html.DisplayNameFor(model => model.civilite)</th>
+            <th>@Html.DisplayNameFor(model => model.DateNaissance)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+            <th>@Html.DisplayNameFor(model => model.NombrePoints)</th>
+            <th>@Html.DisplayNameFor(model => model.NumeroCarteFidelite)</th>
+            <th>@Html.DisplayNameFor(model => model.CompteASupprimer)</th>
+            <th>@Html.DisplayNameFor(model => model.Actif)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => p.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => p.Prenom)</td>
+                <td>@Html.DisplayFor(modelItem => p.civilite)</td>
+                <td>@Html.DisplayFor(modelItem => p.DateNaissance)</td>
+                <td>@Html.DisplayFor(modelItem => p.Email)</td>
+                <td>@Html.DisplayFor(modelItem => p.NombrePoints)</td>
+                <td>@Html.DisplayFor(modelItem => p.NumeroCarteFidelite)</td>
+                <td>@Html.DisplayFor(modelItem => p.CompteASupprimer)</td>
+                <td>@Html.DisplayFor(modelItem => p.Actif)</td>
+                <td>@Html.ActionLink("Changer l'Etat", "changerEtatClient", new { id = p.UtilisateurId })</td>
+            </tr>
+        }
+    </tbody>
+</table>

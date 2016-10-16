@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "AjouterFacture";
+}
+
+<h2>Paiement sur facture</h2>
+
+<div>
+    @using (Html.BeginForm("AjouterFacture", "MoyenPaiement", FormMethod.Post))
+    {
+    <p>
+        Si vous avez choisi le mode de paiement sur facture, le montant net est payable dès réception de la commande.
+    </p>
+    <p>
+        En cas de retard de paiement, nous nous réservons le droit de suspendre toute livraison ultérieure. Les frais de rappel, les intérêts moratoires et les frais d'encaissement sont à la charge de l'acheteur. 
+    </p>
+    <p>
+        Une fois la commande livrée, celle-ci ne peut plus être annulée. En cas de refus de réception du colis, nous facturons 15% du montant de la facture pour les frais d'annulation.
+    </p>
+    <p>
+        La marchandise reste notre propriété jusqu'à son paiement intégral. En cas de retard de paiement, le remboursement de l'ensemble des frais d'encaissements et de relance sera considéré comme convenu entre les deux parties.
+    </p>
+    <button type="submit">Valider</button>
+    }
+</div>
+

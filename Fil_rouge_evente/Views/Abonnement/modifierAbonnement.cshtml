@@ -1,0 +1,17 @@
+﻿@model Fil_rouge_evente.Metier.Abonnement
+@{
+    ViewBag.Title = "modifierAbonnement";
+}
+
+<h2>modifierAbonnement</h2>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("modifierAbonnement", "Abonnement", FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.AbonnementId)
+        <span>@Html.DisplayNameFor(model => model.Nom)</span><span>@Html.TextBoxFor(model => model.Nom)</span><span>@Html.ValidationMessageFor(model => model.Nom)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Prix)</span><span>@Html.TextBoxFor(model => model.Prix, @format:"{0:#,##0.00}")</span><span>@Html.ValidationMessageFor(model => model.Prix)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Duree)</span><span>@Html.EnumDropDownListFor(model => model.Duree)</span><span>@Html.ValidationMessageFor(model => model.Duree)</span><br />
+        <button type="submit">Mettre à jour</button>
+    }
+</div>

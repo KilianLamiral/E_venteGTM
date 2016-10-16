@@ -1,0 +1,15 @@
+﻿@model Fil_rouge_evente.Metier.Catalogue
+@{
+    ViewBag.Title = "ajouterCatalogue";
+}
+
+<h2>Ajouter un catalogue</h2>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("ajouterCatalogue", "Catalogue", FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.NomCatalogue) : </span><span>@Html.TextBoxFor(model => model.NomCatalogue)</span><br />
+        
+        <button type="submit">Ajouter</button>
+    }
+</div>

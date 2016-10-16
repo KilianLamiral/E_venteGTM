@@ -1,0 +1,541 @@
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\ApplicationInsights.config
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\csc.exe
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\vbc.exe
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\WebGrease.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.bdd.resources
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.ajoutLoginPassword.resources
+c:\users\adminl\documents\visual studio 2015\Projects\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.requiredProduit.resources
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\ApplicationInsights.config
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\csc.exe
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\vbc.exe
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\WebGrease.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+H:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+H:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\ApplicationInsights.config
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\csc.exe
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\vbc.exe
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\WebGrease.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+F:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+F:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+F:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.bdd.resources
+F:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+H:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.bdd.resources
+H:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+H:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.suppression_colonne_fidelite.resources
+F:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.suppression_colonne_fidelite.resources
+F:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.confirmPassword.resources
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\ApplicationInsights.config
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\csc.exe
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\vbc.exe
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\WebGrease.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+E:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.bdd.resources
+E:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.suppression_colonne_fidelite.resources
+E:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.confirmPassword.resources
+E:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+E:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+E:\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\ApplicationInsights.config
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\csc.exe
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\vbc.exe
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\WebGrease.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Helpers.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Mvc.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Optimization.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.Razor.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.updateadmin.resources
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+C:\Users\Oumar Diagne\Documents\GitHub\Fil_rouge_evente\Fil_rouge_evente\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.updaterole2.resources
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.updateadmin.resources
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.updaterole2.resources
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\ApplicationInsights.config
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\csc.exe
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\vbc.exe
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Helpers.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Mvc.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Optimization.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Razor.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\WebGrease.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Helpers.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Mvc.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Optimization.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Razor.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Oumar Diagne\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\ApplicationInsights.config
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\csc.exe
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\vbc.exe
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Helpers.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Mvc.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Optimization.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Razor.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\WebGrease.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Helpers.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Mvc.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Optimization.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Razor.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+C:\Users\Adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+C:\Users\adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.CreationBDD.resources
+C:\Users\adminl\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\ApplicationInsights.config
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\csc.exe
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\vbc.exe
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.dll.config
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Fil_rouge_evente.pdb
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Antlr3.Runtime.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.SqlServer.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Web.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Newtonsoft.Json.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Helpers.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Mvc.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Optimization.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Razor.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\WebGrease.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\EntityFramework.SqlServer.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.Web.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Helpers.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Mvc.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Optimization.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.Razor.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Antlr3.Runtime.pdb
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Newtonsoft.Json.xml
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csprojResolveAssemblyReference.cache
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.pdb
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\bin\Rotativa.dll
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.projetMergeFinal.resources
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.csproj.GenerateResource.Cache
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.projetMergeFinal2.resources
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.projetMergeFinal3.resources
+C:\Users\Kilian\Documents\GitHub\projet_e_commerce\Fil_rouge_evente\obj\Debug\Fil_rouge_evente.Migrations.tst.resources

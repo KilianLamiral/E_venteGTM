@@ -1,0 +1,16 @@
+﻿@model Fil_rouge_evente.Metier.Fidelite
+@{
+    ViewBag.Title = "modifierFidelite";
+}
+
+<h2>modifierFidelite</h2>
+
+<div>
+    @using (Html.BeginForm("ajouterFidelite", "Fidelite", FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.FideliteId);
+        <span>@Html.DisplayNameFor(model => model.NombrePoints) : </span><span>@Html.DisplayFor(model => model.NombrePoints)</span>
+        <span>@Html.DisplayNameFor(model => model.Avantages) : </span><span>@Html.DisplayFor(model => model.Avantages)</span>
+        <button type="submit">Mettre à jour</button>
+    }
+</div>

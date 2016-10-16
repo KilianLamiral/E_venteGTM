@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "AjouterCheque";
+}
+
+<h2>Instruction pour le paiement par chèque</h2>
+
+<div>
+    @using (Html.BeginForm("AjouterCheque", "MoyenPaiement", FormMethod.Post))
+    {
+    <p>Si vous choisissez le paiement par chèque, veuillez envoyer votre chèque établi à l'ordre de la société "   " à l'adresse suivante : "   "</p>
+    <button type="submit">Valider</button>
+    }
+</div>
+

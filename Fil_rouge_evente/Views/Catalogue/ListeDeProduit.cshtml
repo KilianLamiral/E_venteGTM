@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.Catalogue>
+@{
+    ViewBag.Title = "Liste Des catalogues disponibles";
+    Layout = "~/Views/Shared/_Layoutboutique.cshtml";
+}
+
+<h2>Liste Des Catalogues</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.CatalogueId)</th>
+            <th>@Html.DisplayNameFor(model => model.Nom)</th>
+            <th>Details</th>
+            <th><button>@Html.ActionLink("Ajouter", "AjouterUnCatalogue")</button></th>
+            <th><button>@Html.ActionLink("Rechercher", "RechercherUnCatalogueByName")</button></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => p.CatalogueId)</td>
+                <td>@Html.DisplayFor(modelItem => p.Nom)</td>
+                <td>@Html.ActionLink("Afficher Contenu","contenuCatalogue")</td>
+                <td><button>@Html.ActionLink("Modifier", "modifierCatalogue", new { id = p.CatalogueId })</button></td>
+                <td><button>@Html.ActionLink("Supprimer", "supprimerCatalogue", new { id = p.CatalogueId })</button></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

@@ -1,0 +1,52 @@
+﻿@model Fil_rouge_evente.Metier.Produit
+@{
+    ViewBag.Title = "AfficherProduit";
+}
+
+<h2>@ViewBag.Message</h2>
+
+<div>
+    <table class="table table-striped">
+        
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Categorie)</td>
+                <td>@Html.DisplayFor(model => model.Categorie)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Nom)</td>
+                <td>@Html.DisplayFor(model => model.Nom)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Prix)</td>
+                <td>@Html.DisplayFor(model => model.Prix)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Stock)</td>
+                <td>@Html.DisplayFor(model => model.Stock)</td>
+            </tr>
+            <tr>
+                <td>
+                <td><img src="~/Content/IMG/@Html.DisplayFor(model => model.Path)" alt="image" height="80px" /></td>
+            </tr>
+            
+    </table>
+    @Html.ActionLink("Afficher les commentaires", "afficherAvisProduit", new {id = Model.ProduitId })
+    @using (Html.BeginForm("ajouterAvisProduit","Produit"))
+    { 
+        @Html.HiddenFor(model => model.ProduitId)
+        <table>
+            <tr>
+                <td>Note : </td>
+                <td >@Html.TextBox("Note", 0, new { type = "number", required = "required", min = 0, max = 5 })</td>
+            </tr>
+            <tr>
+                <td style="vertical-align:middle">Commentaire : </td>
+                <td >@Html.TextArea("Commentaire")</td>
+            </tr>
+            
+        </table>
+        <button type="submit">Ajouter un avis</button>
+    }
+
+   
+</div>

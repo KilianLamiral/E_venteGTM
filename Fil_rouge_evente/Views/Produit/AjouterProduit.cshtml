@@ -1,0 +1,21 @@
+﻿@model Fil_rouge_evente.Metier.Produit
+@{
+    ViewBag.Title = "Ajouter un produit";
+}
+
+<h2>Ajouter un produit</h2>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("AjouterProduit", "Produit", FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.Nom) : </span><span>@Html.TextBoxFor(model => model.Nom)</span><span>@Html.ValidationMessageFor(model => model.Nom)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Prix) : </span><span>@Html.TextBoxFor(model => model.Prix)</span><span>@Html.ValidationMessageFor(model => model.Prix)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Stock) : </span><span>@Html.TextBoxFor(model => model.Stock)</span><span>@Html.ValidationMessageFor(model => model.Stock)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Categorie) : </span><span>@Html.TextBoxFor(model => model.Categorie) </span><span>@Html.ValidationMessageFor(model => model.Categorie)</span><br />
+        <span>@Html.DisplayNameFor(model => model.catalogue) : </span><span>@Html.DropDownList("CatalogueId")</span><span>@Html.ValidationMessageFor(model => model.catalogue)</span><br />
+        <span>@Html.DisplayNameFor(model=> model.Path) :</span><span>@Html.TextBoxFor(model=> model.Path, new { type = "file" })</span>
+
+        <button type="submit">Ajouter</button>
+    }
+</div>
+

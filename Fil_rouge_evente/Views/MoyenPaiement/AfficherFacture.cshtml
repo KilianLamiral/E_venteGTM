@@ -1,0 +1,53 @@
+﻿@model Fil_rouge_evente.Models.ModelCreationPdfFacture
+@{
+    ViewBag.Title = "AfficherFacture";
+}
+
+<h2>Affichage de la facture</h2>
+
+<div>
+    @using (Html.BeginForm("AffichageFacture", "MoyenPaiement", FormMethod.Post))
+    {
+        <span>@Html.Label("Informations client")</span><br />
+        <span>@Html.DisplayNameFor(model => model.NomClient) : </span><span>@Html.DisplayFor(model => model.NomClient)</span><br />
+        <span>@Html.DisplayNameFor(model => model.PrenomClient) : </span><span>@Html.DisplayFor(model => model.PrenomClient)</span><br />
+        <span>@Html.Display("Référence du client") : </span><span>@Html.DisplayFor(model => model.ClientId)</span><br />
+        <span>@Html.Label("Adresse de Facturation")</span><br />
+        <span>@Html.DisplayNameFor(model => model.NumeroRueFacturation) : </span><span>@Html.DisplayFor(model => model.NumeroRueFacturation)</span><br />
+        <span>@Html.DisplayNameFor(model => model.NomRueFacturation) : </span><span>@Html.DisplayFor(model => model.NomRueFacturation)</span><br />
+        <span>@Html.DisplayNameFor(model => model.CodePostalFacturation) : </span><span>@Html.DisplayFor(model => model.CodePostalFacturation)</span><br />
+        <span>@Html.DisplayNameFor(model => model.VilleFacturation) : </span><span>@Html.DisplayFor(model => model.VilleFacturation)</span><br />
+        <span>@Html.Label("Adresse de livraison")</span><br />
+        <span>@Html.DisplayNameFor(model => model.NumeroRueLivraison) : </span><span>@Html.DisplayFor(model => model.NumeroRueLivraison)</span><br />
+        <span>@Html.DisplayNameFor(model => model.NomRueLivraison) : </span><span>@Html.DisplayFor(model => model.NomRueLivraison)</span><br />
+        <span>@Html.DisplayNameFor(model => model.CodePostalLivraison) : </span><span>@Html.DisplayFor(model => model.CodePostalLivraison)</span><br />
+        <span>@Html.DisplayNameFor(model => model.VilleLivraison) : </span><span>@Html.DisplayFor(model => model.VilleLivraison)</span><br />
+        <span>@Html.Label("Informations commande")</span><br />
+        <span>@Html.DisplayNameFor(model => model.DateCommande) : </span><span>@Html.DisplayFor(model => model.DateCommande)</span>
+        <span>@Html.DisplayNameFor(model => model.DateEcheance) : </span><span>@Html.DisplayFor(model => model.DateEcheance)</span>
+
+        @*<table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Produit.Nom)</th>
+                        <th>@Html.DisplayNameFor(model => model.ProduitCommande.quantite)</th>
+                        <th>@Html.DisplayNameFor(model => model.Produit.Prix)</th>
+                        <th>@Html.DisplayNameFor(model => model.PrixTotalProduit)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var m in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => m.Produit.Nom)</td>
+                            <td>@Html.DisplayFor(modelItem => m.ProduitCommande.quantite)</td>
+                            <td>@Html.DisplayFor(modelItem => m.ProduitPrix)</td>
+                            <td>@Html.DisplayFor(modelItem => m.PrixTotalProduit)</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>*@
+        <span>@Html.DisplayNameFor(model => model.PrixTotalCommande) : </span><span>@Html.DisplayFor(model => model.PrixTotalCommande)</span>
+        <button type="submit">Création du PDF</button>
+    }
+</div>

@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.Fidelite>
+@{
+    ViewBag.Title = "listerFidelite";
+}
+
+<h2>listerFidelite</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.NombrePoints)</th>
+            <th>@Html.DisplayNameFor(model => model.Avantages)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var m in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.NombrePoints)</td>
+                <td>@Html.DisplayFor(modelItem => m.Avantages)</td>
+                <td>@Html.ActionLink("Modifier","modifierFidelite",new { id = m.FideliteId })</td>
+                <td>@Html.ActionLink("Supprimer","supprimerFidelite", new { id = m.FideliteId })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

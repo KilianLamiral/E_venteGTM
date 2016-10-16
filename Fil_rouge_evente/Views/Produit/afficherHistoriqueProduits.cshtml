@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Fil_rouge_evente.Models.Historique_UtilisateurProduitModel>
+@{
+    ViewBag.Title = " Votre Historique";
+}
+
+
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nom)</th>
+            <th>@Html.DisplayNameFor(model => model.Prix)</th>
+            <th>@Html.DisplayNameFor(model => model.Categorie)</th>
+            <th>@Html.DisplayNameFor(model => model.DateConsultation)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => m.Prix)</td>
+                <td>@Html.DisplayFor(modelItem => m.Categorie)</td>
+                <td>@Html.DisplayFor(modelItem => m.DateConsultation)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.ActionLink("Créer un PDF", "creationPdfHistorique")

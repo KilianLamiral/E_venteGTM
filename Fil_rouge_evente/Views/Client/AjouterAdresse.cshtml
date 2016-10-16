@@ -1,0 +1,18 @@
+﻿@model Fil_rouge_evente.Metier.Adresse
+@{
+    ViewBag.Title = "AjouterAdresse";
+}
+
+<h2>Veuillez ajouter une adresse</h2>
+
+<div>
+    @using (Html.BeginForm("AjouterAdresse", "Client", FormMethod.Post))
+    {
+        <span>@Html.DisplayNameFor(model => model.typeadresse) : </span><span>@Html.EnumDropDownListFor(model => model.typeadresse)</span><br />
+        <span>@Html.DisplayNameFor(model=> model.NumeroRue) : </span><span>@Html.TextBoxFor(model => model.NumeroRue)</span><br />
+        <span>@Html.DisplayNameFor(model => model.NomRue) : </span><span>@Html.TextBoxFor(model => model.NomRue)</span><br />
+        <span>@Html.DisplayNameFor(model => model.CodePostal) : </span><span>@Html.TextBoxFor(model => model.CodePostal)</span><br />
+        <span>@Html.DisplayNameFor(model => model.Ville) : </span><span>@Html.TextBoxFor(model => model.Ville)</span><br />
+        <button type="submit">Valider</button>
+    }
+</div>

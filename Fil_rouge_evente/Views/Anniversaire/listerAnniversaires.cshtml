@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Fil_rouge_evente.Metier.Anniversaire>
+@{
+    ViewBag.Title = "listerAnniversaires";
+}
+
+<h2>listerAnniversaires</h2>
+
+@Html.ActionLink("Ajouter un cadeau d'anniversaire","ajouterAnniversaire")
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.AnniversaireId)</th>
+            <th>@Html.DisplayNameFor(model => model.montant)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var m in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => m.AnniversaireId)</td>
+                <td>@Html.DisplayFor(modelItem => m.montant)</td>
+                <td>@Html.ActionLink("Modifier", "modifierAnniversaire", new { id = m.AnniversaireId })</td>
+                <td>@Html.ActionLink("Supprimer","supprimerAnniversaire",new { id = m.AnniversaireId })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
